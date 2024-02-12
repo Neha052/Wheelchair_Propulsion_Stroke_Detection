@@ -20,10 +20,10 @@ Dataset is not uploaded on github.
 
 ### Features 
 1. Mean of 3 axes and resultant
-2. Sandard deviation of 3 axes and resultant
+2. Standard deviation of 3 axes and resultant
 3. Numbers crossing mean of 3 axes and resultant
 4. Numbers crossing mean plus standard deviation of 3 axes and resultant
-5. Maximun power spectral density of 3 axes and resultant
+5. Maximum power spectral density of 3 axes and resultant
 6. Peaks of 3 axes and resultant
 7. Amplitude difference between peaks for 3 axes and resultant
 8. Average push count
